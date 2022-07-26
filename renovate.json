@@ -7,7 +7,7 @@
   },
   "onboarding": false,
   "rangeStrategy": "replace",
-  "semanticCommits": "enabled",
+  "semanticCommits": "disabled",
   "timezone": "US/Central",
   "baseBranch":"main",
   "packageRules": [
